@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro Maia ✌️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maia_pdr/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/droLz1n.dev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropaulo-maia/)
 
 ![droLz1n GitHub stats](https://github-readme-stats.vercel.app/api?username=droLz1n&show_icons=true&theme=radical)
