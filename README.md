@@ -4,6 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropaulo-maia/)
 
 ![droLz1n GitHub stats](https://github-readme-stats.vercel.app/api?username=droLz1n&show_icons=true&theme=radical)
+![Snake animation](https://github.com/droLz1n/droLz1n/blob/output/github-contribution-grid-snake.svg)
 
 ## Tecnologias que eu uso no meu dia a dia!
 
