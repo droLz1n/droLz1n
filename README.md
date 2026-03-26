@@ -3,8 +3,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/droLz1n.dev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropaulo-maia/)
 
-![droLz1n GitHub stats](https://github-readme-stats.vercel.app/api?username=droLz1n&show_icons=true&theme=radical)
-![Snake animation](https://github.com/droLz1n/droLz1n/blob/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://streak-stats.demolab.com?user=droLz1n&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=droLz1n&layout=compact&theme=radical)
 
 ## Tecnologias que eu uso no meu dia a dia!
 
