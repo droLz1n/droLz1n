@@ -5,8 +5,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=droLz1n&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=droLz1n&layout=compact&theme=radical)
-
 ## Tecnologias que eu uso no meu dia a dia!
 
 <div style="display: inline_block"><br/>
