@@ -37,8 +37,11 @@ Sou um desenvolvedor apaixonado por tecnologia, atualmente cursando **Sistemas d
 ### 🐍 Snake Game
 
 Aqui está a evolução das minhas contribuições no GitHub:
+<div align=center>
+  
+<img src="https://raw.githubusercontent.com/droLz1n/droLz1n/output/snake.svg" alt="Snake animation" />
 
-![GitHub Snake](https://github.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ---
 
