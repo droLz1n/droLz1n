@@ -1,23 +1,50 @@
-### Olá! Eu sou o Pedro Maia ✌️
+# Olá, eu sou o Pedro Maia! 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/droLz1n.dev/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropaulo-maia/)
+Sou um desenvolvedor apaixonado por tecnologia, atualmente cursando **Sistemas de Informação**. Moro em **Nova Iguaçu, Rio de Janeiro**, e busco constantemente criar soluções eficientes e elegantes através do código.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=droLz1n&theme=radical)
+---
 
-## Tecnologias que eu uso no meu dia a dia!
+### 🚀 Sobre Mim
 
-<div style="display: inline_block"><br/>
-    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVASCRIPT"/>
-    <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT"/>
-    <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="PYTHON"/>
-</div><br/>
+- 🎓 Estudante de Sistemas de Informação.
+- 🐍 Minha linguagem principal é o **Python**, com foco em **FastAPI**.
+- 💻 No ecossistema Web, utilizo **HTML, CSS, JavaScript e React**.
+- 📊 Tenho grande interesse em **Data Science** e **Inteligência Artificial**.
+- 🗄️ Experiência prática com bancos de dados como **PostgreSQL**.
+- 🛠️ Atualmente desenvolvendo projetos como um CRUD de Inventário de Mercado e outros para meu portfólio.
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+---
 
-### E-mail para contato:
+### 🛠️ Tecnologias e Ferramentas
 
-✉️ maiapdr99@gmail.com
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+### 🐍 Snake Game
+
+Aqui está a evolução das minhas contribuições no GitHub:
+
+![GitHub Snake](https://github.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📫 Contato
+
+- **LinkedIn:** https://www.linkedin.com/in/pedropaulo-maia/
+- **E-mail:** maiapdr99@gmail.com
+
+---
