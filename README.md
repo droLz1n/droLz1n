@@ -25,11 +25,11 @@
 
 ---
 
-### 📂 Projetos em Destaque
+### 📂 Projeto em Destaque
 
 | Projeto | Descrição | Tech Stack |
 | --- | --- | --- |
-| [📦 Market Inventory]((https://github.com/droLz1n/market-inventory-crud)) | CRUD completo para gerenciamento de estoque de mercado. | Python, FastAPI, PostgreSQL, JavaScript |
+| [📦 Market Inventory](https://github.com/droLz1n/market-inventory-crud) | CRUD completo para gerenciamento de estoque de mercado. | Python, FastAPI, PostgreSQL, JavaScript |
 
 ---
 
