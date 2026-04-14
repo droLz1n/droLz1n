@@ -1,4 +1,6 @@
-# Olá, eu sou o Pedro Maia! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+Maia!+%F0%9F%91%8B;Desenvolvedor+Python;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+FastAPI+e+React" alt="Typing SVG" />
+</div>
 
 Sou um desenvolvedor apaixonado por tecnologia, atualmente cursando **Sistemas de Informação**. Moro em **Nova Iguaçu, Rio de Janeiro**, e busco constantemente criar soluções eficientes e elegantes através do código.
 
