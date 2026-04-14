@@ -53,7 +53,13 @@ Aqui está a evolução das minhas contribuições no GitHub:
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropaulo-maia/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maiapdr99@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedropaulo-maia/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:maiapdr99@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
