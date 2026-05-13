@@ -7,10 +7,10 @@
 ### 🚀 Sobre Mim
 
 - 🎓 Estudante de Sistemas de Informação.
-- 🐍 Minha linguagem principal é o **Python**, com foco em **FastAPI**.
+- 🐍 Minha linguagem principal é o **Python**.
 - 💻 No ecossistema Web, utilizo **HTML, CSS, JavaScript e React**.
 - 📊 Tenho grande interesse em **Data Science** e **Inteligência Artificial**.
-- 🗄️ Experiência prática com bancos de dados como **PostgreSQL**.
+- 🗄️ Experiência prática com bancos de dados como **PostgreSQL e MySQL**.
 - 🛠️ Atualmente desenvolvendo projetos como um CRUD de Inventário de Mercado e outros para meu portfólio.
 
 ---
