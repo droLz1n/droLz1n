@@ -18,7 +18,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,postgres,mysql,fastapi,react,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,postgres,mysql,fastapi,react,git,github,docker,pandas" />
 </p>
 
 ---
