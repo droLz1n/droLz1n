@@ -28,7 +28,7 @@
 | Projeto | Descrição | Tech Stack |
 | --- | --- | --- |
 | [📦 Market Inventory](https://github.com/droLz1n/market-inventory-crud) | CRUD completo para gerenciamento de estoque de mercado. | Python, FastAPI, PostgreSQL, JavaScript |
-
+| [📦 E-commerce](https://github.com/droLz1n/projeto-ecommerce) | E-commerce com sistema de pagamento MercadoPago Integrado | Next.js, Typescript, SQLite, Tailwind CSS |
 ---
 
 ### 📊 Estatísticas do GitHub
