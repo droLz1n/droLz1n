@@ -31,15 +31,6 @@
 | [📦 E-commerce](https://github.com/droLz1n/projeto-ecommerce) | E-commerce com sistema de pagamento MercadoPago Integrado | Next.js, Typescript, SQLite, Tailwind CSS |
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-jstin.vercel.app/api?username=droLz1n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-git-master-jstin.vercel.app/api/top-langs/?username=droLz1n&layout=compact&langs_count=7&theme=dracula" />
-</div>
-
----
-
 ### 🐍 Snake Game
 
 Aqui está a evolução das minhas contribuições no GitHub:
